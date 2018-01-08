@@ -62,7 +62,6 @@ header .profile-image:hover {
     border-radius: 5px;
     display: table;
     margin: 20px auto;
-    /* text-transform: uppercase; */
 }
 
 .location {
